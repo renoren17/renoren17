@@ -1,7 +1,7 @@
 # Hi there, hoomans!
 
 *Name*: call me for whatever
-*Age*: 16  
+*Age*: 16 
 *From*: Banyuwangi, Indonesia  (Curently in Karawang now)
 *Status*: SMK student majoring in Software Engineering (RPL)  
 *Dream*: Study in Germany, buy my dream BMWs, and make my family proud.
