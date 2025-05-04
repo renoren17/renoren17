@@ -1,6 +1,6 @@
 # Hi there, hoomans!
 
-![Weirdcore GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE2N3VtanNjbHY5YWoxNTBqMG9uaW15cm00ajRic3NibHhnMjBociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AVSl859um5sCA/giphy.gif)
+![Weirdcore GIF](https://media.giphy.com/media/zKbUtzLYTrFyXWeaHv/giphy.gif?cid=ecf05e47yyn6pljxcdnqaj5o3238fzdrbwx5vbmwr1yko66j&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 *Name*: call me whatever  
 *Age*: 16  
