@@ -1,15 +1,6 @@
 # Hi there, hoomans!
 
-
-
-
-
-![Weirdcore GIF](https://tenor.com/bRgHd.gif)
-
-
-
-
-
+![Weirdcore GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE2N3VtanNjbHY5YWoxNTBqMG9uaW15cm00ajRic3NibHhnMjBociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AVSl859um5sCA/giphy.gif)
 
 *Name*: call me whatever  
 *Age*: 16  
