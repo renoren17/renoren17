@@ -1,6 +1,6 @@
 # Hi there, hoomans!
 
-![Weirdcore GIF](https://media.giphy.com/media/3o6MbcRsdfl4wE6D58/giphy.gif)
+![Weirdcore GIF](https://gifdb.com/gif/weirdcore-hands-monster-eyes-azvezbs215zrvh25.gif)
 
 *Name*: call me whatever  
 *Age*: 16  
