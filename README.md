@@ -1,5 +1,7 @@
 # Hi there, hoomans!
 
+![Weirdcore GIF](https://images.app.goo.gl/i8qow3LAzEefQJW58)
+
 *Name*: call me whatever  
 *Age*: 16  
 *From*: Banyuwangi, Indonesia *(currently in Karawang)  
@@ -34,7 +36,6 @@ I'm an INTP, and I express myself best through what I create.
 > "Dok, pasiennya ngoding, dok..."
 
 ---
-![Retro Game Eye GIF](https://media.giphy.com/media/5at4JrWsMoa7D5A46G/giphy.gif)
 
 Thanks for stopping by :3  
 *Danke schön!*
