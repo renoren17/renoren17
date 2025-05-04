@@ -15,17 +15,17 @@ I'm an intp, but I express myself through what I create.
 ---
 
 ## Things I Like
-- Writing code that actually runs
+- Writing (not code brvh) draw, sleep.
 - Collecting diecast
 - Talking bout cars (especially BMW)
-- Dark themes and black color schemes
+- Cheese uwooh
 
 ---
 
 ## Tech Stack
 - Python (still learning)
 - HTML & CSS (a bit)
-- Git & GitHub (getting used to it ig)
+- Git & GitHub (newbie)
 - VS Code (idk?)
 
 ---
@@ -35,3 +35,4 @@ I'm an intp, but I express myself through what I create.
 ---
 
 Thanks for stopping by :3  
+Danke shcoon!
