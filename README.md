@@ -1,39 +1,40 @@
 # Hi there, hoomans!
 
-*Name*: call me for whatever
-*Age*: 16 
-*From*: Banyuwangi, Indonesia  (Curently in Karawang now)
+*Name*: call me whatever  
+*Age*: 16  
+*From*: Banyuwangi, Indonesia *(currently in Karawang)  
 *Status*: SMK student majoring in Software Engineering (RPL)  
 *Dream*: Study in Germany, buy my dream BMWs, and make my family proud.
 
 ---
 
 ## About Me
-I'm a quiet thinker who loves draw, cars, and calm days.  
+I'm a quiet thinker who loves drawing, cars, and calm days.  
 Currently learning Python and the basics of programming.  
-I'm an intp, but I express myself through what I create.
+I'm an INTP, and I express myself best through what I create.
 
 ---
 
 ## Things I Like
-- Writing (not code brvh) draw, sleep.
-- Collecting diecast
-- Talking bout cars (especially BMW)
-- Cheese uwooh
+- Drawing, writing (not code brvh), and of course—sleep.
+- Collecting diecast cars
+- Talking 'bout cars (especially BMW)
+- Cheese... uwooh
 
 ---
 
 ## Tech Stack
 - Python (still learning)
 - HTML & CSS (a bit)
-- Git & GitHub (newbie)
-- VS Code (idk?)
+- Git & GitHub (newbie mode)
+- VS Code (uhh... I guess?)
 
 ---
 
-> "dok, pasiennya ngoding dok..."
+> "Dok, pasiennya ngoding, dok..."
 
 ---
+![Retro Game Eye GIF](https://media.giphy.com/media/5at4JrWsMoa7D5A46G/giphy.gif)
 
 Thanks for stopping by :3  
-Danke shcoon!
+*Danke schön!*
