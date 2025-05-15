@@ -26,10 +26,7 @@ I'm an INTP, and I express myself best through what I create.
 ---
 
 ## Tech Stack
-- Python (still learning)
-- HTML & CSS (a bit)
-- Git & GitHub (newbie mode)
-- VS Code (uhh... I guess?)
+- NO
 
 ---
 
