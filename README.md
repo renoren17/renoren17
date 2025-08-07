@@ -1,4 +1,8 @@
 <!-- Banner / Header -->
+<p align="center">
+  <img src="arle.jpg" width="600"/>
+</p>
+
 <h1 align="center">Hi! I'm Gave Endery</h1>
 
 ---
@@ -15,15 +19,11 @@
 
 ---
 
-<!-- Tambahan opsional -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renoren17&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME_KAMU&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="arle.jpg" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renoren17&theme=tokyonight" />
 </p>
