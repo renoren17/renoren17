@@ -27,3 +27,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renoren17&theme=tokyonight" />
 </p>
+<a href="https://discord.com/users/USERNAME-ID" target="_blank">Discord: @orierenn</a>
