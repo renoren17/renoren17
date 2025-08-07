@@ -1,10 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi! I'm Gave Endery</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAyN3N6MThnYzY1Z2l2aGVnN2cyaWxqZnN3ZWpvZTIzdjUwbndjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U3qYN8S0j3bpK/giphy.gif" width="300"/>
-</p>
-
 ---
 
 <p align="center">
