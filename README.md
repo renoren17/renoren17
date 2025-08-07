@@ -1,11 +1,11 @@
-<!-- Banner / Header -->
+
 <p align="center">
   <img src="arle.jpg" width="600"/>
 </p>
 
 <h1 align="center">Hi! I'm Gave Endery</h1>
 
----
+
 
 <p align="center">
   <i>I live in Indonesia, and I actually only do coding because I'm bored with life.</i>
@@ -16,9 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript & 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML
 </p>
----
 
-<!-- GitHub Stats -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renoren17&show_icons=true&theme=tokyonight" />
 </p>
