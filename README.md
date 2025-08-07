@@ -27,3 +27,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME_KAMU&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="arle.jpg" width="600"/>
+</p>
