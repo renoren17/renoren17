@@ -3,17 +3,11 @@
   <img src="arle.jpg" width="600"/>
 </p>
 
-<h1 align="center">Hi! I'm Gave Endery</h1>
+<h1 align="center">Gave Endery</h1>
 
----
-
+<!-- Tools / Learning -->
 <p align="center">
-  <i>I live in Indonesia, and I actually only do coding because I'm bored with life.</i>
-</p>
-
-<p align="center">
-  Currently learning  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript & 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript &nbsp;•&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS
 </p>
 
