@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" width="1000"/>
+  <img src="mitsuki.png" alt="banner" width="1000"/>
 </p>
 
 # Hi there 👋 I'm Nay
