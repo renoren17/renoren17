@@ -3,9 +3,11 @@
   <img src="flinss.jpg" alt="banner" width="1000"/>
 </p>
 
+<div align="center">
+
 # Hi there 👋 I'm Nay
 
-💻 I'm a student currently learning *CSS* & *Java*  
+💻 I'm a student currently learning CSS & Java  
 
 
 ## 🛠 Languages & Tools
@@ -24,5 +26,6 @@
 </p>
 
 
+✨ Thanks for visiting my profile! ✨
 
- Thanks for visiting my profile!
+</div>
