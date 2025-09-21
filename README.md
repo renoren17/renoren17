@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="mitsuki.png" alt="banner" width="1000"/>
+  <img src="flins.jpg" alt="banner" width="1000"/>
 </p>
 
 # Hi there 👋 I'm Nay
