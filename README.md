@@ -1,28 +1,28 @@
-
+<!-- Banner -->
 <p align="center">
-  <img src="arle.jpg" width="600"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" width="1000"/>
 </p>
 
-<h1 align="center">Hi! I'm Gave Endery</h1>
+# Hi there 👋 I'm Nay
+
+💻 I'm a student currently learning *CSS* & *Java*  
 
 
-
-<p align="center">
-  <i>I live in Indonesia, and I actually only do coding because I'm bored with life.</i>
+## 🛠 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+
+## 📊 GitHub Stats
 <p align="center">
-  Currently learning  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renoren17&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renoren17&theme=tokyonight" />
-</p>
-<a href="https://discord.com/users/USERNAME-ID" target="_blank">Discord: @orierenn</a>
+ Thanks for visiting my profile!
