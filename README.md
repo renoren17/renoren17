@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi there 👋 I'm Nay
+# Hi there 👋 I'm Cheese
 
 💻 I'm a student currently learning CSS & Java  
 
