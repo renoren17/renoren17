@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="janedoe.jpg" alt="banner" width="1000"/>
+  <img src="janeeedoe.jpg" alt="banner" width="1000"/>
 </p>
 
 <div align="center">
