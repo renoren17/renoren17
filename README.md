@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi there 👋 I'm Cheese
+# Hi there 👋 I'm Cheesy
 
 💻 I'm a student currently learning CSS & Java  
 
@@ -28,6 +28,6 @@
 </p>
 
 
-✨ Thanks for visiting my profile! ✨
+ Thanks for visiting my profile! 
 
 </div>
