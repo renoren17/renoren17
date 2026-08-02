@@ -7,19 +7,16 @@
 
 # Hi there 👋 I'm Cheesy
 
-> ♯┆ cheesy or nay   𓏽   they / them  ⁔⏜  
+> ♯┆ cheesy or nay    𓏽    they / them  ⁔⏜  
 > 𝄚𝅦𝄚  oo 's huzz  𝄞  ilmbf  d=(^o^)=b 3 years ago , the world began
 
-💻 I'm a student currently learning CSS & Java  
+💻 I'm a student currently learning ANYTHING  
 
 ## 🛠 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,js,ts,css,git" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
